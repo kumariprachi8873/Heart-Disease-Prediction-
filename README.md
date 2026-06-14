@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction-
+# Heart-Disease-Prediction
 # Heart Disease Prediction using Logistic Regression
 
 ## Project Overview
